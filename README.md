@@ -17,4 +17,4 @@ chmod the crawler, and an example of these queries are below, which can also be 
 |17847560125201451|feed profile suggestions|
 |17863787143139595|post suggestions|
 
-Some of this can be done by JS via the "node_fetch" argument, but for the sake of argument Python will do just fine. 
+Some of this can be done by JS via node-fetch, but for the sake of argument Python will do just fine. 
