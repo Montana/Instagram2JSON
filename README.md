@@ -3,8 +3,7 @@ Something I created in Python to crawl Instagram photos and spit info about them
 
 ## Usage
 
-```
-  chmod u+x crawler.py
+```chmod u+x crawler.py```
 
 
 When logged into Revfluence
