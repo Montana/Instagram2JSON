@@ -1,6 +1,12 @@
 # InstagramQL
 Something I created in Python to crawl Instagram photos and spit info about them out into JSON and also make them graphable in GraphQL. You can run this locally, and/or Docker.
 
+## Usage
+
+```
+  chmod u+x crawler.py
+
+
 When logged into Revfluence
 
 | QueryID | Endpoint |
