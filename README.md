@@ -3,10 +3,7 @@ Something I created in Python to crawl Instagram photos and spit info about them
 
 ## Usage
 
-```chmod u+x crawler.py```
-
-
-When logged into Revfluence
+chmod the crawler, and an example of these queries are below, which can also be exported into CSV and make nice graphs. 
 
 | QueryID | Endpoint |
 |---------|----------|
